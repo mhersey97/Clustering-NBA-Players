@@ -1,0 +1,40 @@
+Loading largest data set.
+Normalizing data.
+Data parsed, beginning kmeans.
+77 recalculations until convergence.
+Sum of Squares error: 4668.88
+Cluster 0 has 3308 members.
+PG: 313
+SG: 727
+SF: 812
+PF: 784
+C: 658
+other: 14
+Cluster 1 has 3331 members.
+PG: 671
+SG: 620
+SF: 602
+PF: 693
+C: 679
+other: 66
+Cluster 2 has 3748 members.
+PG: 1514
+SG: 740
+SF: 718
+PF: 462
+C: 269
+other: 45
+Cluster 3 has 3694 members.
+PG: 896
+SG: 1282
+SF: 973
+PF: 431
+C: 56
+other: 56
+Cluster 4 has 3418 members.
+PG: 45
+SG: 113
+SF: 375
+PF: 1219
+C: 1637
+other: 29

@@ -1,0 +1,40 @@
+Loading medium data set.
+Normalizing data.
+Data parsed, beginning kmeans.
+21 recalculations until convergence.
+Sum of Squares error: 5259.91
+Cluster 0 has 2738 members.
+PG: 10
+SG: 146
+SF: 538
+PF: 1082
+C: 949
+other: 13
+Cluster 1 has 3534 members.
+PG: 689
+SG: 1145
+SF: 1070
+PF: 477
+C: 96
+other: 57
+Cluster 2 has 2414 members.
+PG: 1604
+SG: 524
+SF: 226
+PF: 25
+C: 13
+other: 22
+Cluster 3 has 2206 members.
+PG: 511
+SG: 875
+SF: 586
+PF: 175
+C: 34
+other: 25
+Cluster 4 has 3120 members.
+PG: 1
+SG: 71
+SF: 324
+PF: 1129
+C: 1562
+other: 33
