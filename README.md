@@ -4,7 +4,7 @@ Output requires some work but K-means itself is fully functional.
 To run, accepts 2-3 arguments and properly formatted CSV in stdin.
 
 
-/<K> <large|medium> /<V>
+[K] [large|medium] [V]
   
   
 K - denotes cluster count
